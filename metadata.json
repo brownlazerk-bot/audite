@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Financial Audit & Accounting System",
+  "description": "A professional hotel financial audit, bookkeeping, and transaction verification module with GAAP compliance, FIFO costing, and CEO audit alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
